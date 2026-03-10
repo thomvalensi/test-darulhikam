@@ -212,31 +212,31 @@ Fitur UI:
 # Tampilan Aplikasi
 
 # Dashboard
-![Dashboard](screenshots/DASHBOARD.png)
+![Dashboard](screenshots/dashboard.png)
 
 # Data Yayasan
-![Data Yayasan](screenshots/NOTIF TAMBAH YAYASAN.png)
+![Data Yayasan](screenshots/notif-yayasan.png)
 
 # Modal Tambah Yayasan
-![Modal Tambah](screenshots/ADD YAYASAN.png)
+![Modal Tambah](screenshots/add-yayasan.png)
 
 # Modal Edit Yayasan
-![Modal Tambah](screenshots/EDIT YAYASAN.png)
+![Modal Tambah](screenshots/edit-yayasan.png)
 
 # Modal Delete Yayasan
-![Modal Tambah](screenshots/DELETE YAYASAN.png)
+![Modal Tambah](screenshots/delete-yayasan.png)
 
 # Data Sekolah
-![Data Yayasan](screenshots/VIEW SEKOLAH.png)
+![Data Yayasan](screenshots/view-sekolah.png)
 
 ### Modal Tambah Sekolah
-![Modal Tambah](screenshots/ADD SEKOLAH 1.png)
+![Modal Tambah](screenshots/add-sekolah1.png)
 
 # Modal Edit Sekolah
-![Modal Tambah](screenshots/EDIT SEKOLAH.png)
+![Modal Tambah](screenshots/edit-sekolah.png)
 
 # Modal Delete Sekolah
-![Modal Tambah](screenshots/DELETE SEKOLAH.png)
+![Modal Tambah](screenshots/delete-sekolah.png)
 
 # Author
 
