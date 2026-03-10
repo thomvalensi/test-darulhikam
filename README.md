@@ -209,6 +209,35 @@ Fitur UI:
 
 ---
 
+# Tampilan Aplikasi
+
+# Dashboard
+![Dashboard](screenshots/DASHBOARD.png)
+
+# Data Yayasan
+![Data Yayasan](screenshots/NOTIF TAMBAH YAYASAN.png)
+
+# Modal Tambah Yayasan
+![Modal Tambah](screenshots/ADD YAYASAN.png)
+
+# Modal Edit Yayasan
+![Modal Tambah](screenshots/EDIT YAYASAN.png)
+
+# Modal Delete Yayasan
+![Modal Tambah](screenshots/DELETE YAYASAN.png)
+
+# Data Sekolah
+![Data Yayasan](screenshots/VIEW SEKOLAH.png)
+
+### Modal Tambah Sekolah
+![Modal Tambah](screenshots/ADD SEKOLAH 1.png)
+
+# Modal Edit Sekolah
+![Modal Tambah](screenshots/EDIT SEKOLAH.png)
+
+# Modal Delete Sekolah
+![Modal Tambah](screenshots/DELETE SEKOLAH.png)
+
 # Author
 
 Tomi Mulki
