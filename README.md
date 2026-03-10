@@ -46,7 +46,7 @@ Menampilkan informasi sederhana seperti:
 
 ---
 
-# Struktur Database
+# Struktur Database (ERD)
 
 ## Table: yayasans
 
@@ -71,35 +71,6 @@ Menampilkan informasi sederhana seperti:
 | alamat       | text        |
 | created_at   | timestamp   |
 | updated_at   | timestamp   |
-
-ERD
-----------------------
-+----------------------+
-|        YAYASAN       |
-+----------------------+
-| id (PK)              |
-| nama_yayasan         |
-| alamat               |
-| telepon              |
-| created_at           |
-| updated_at           |
-+----------------------+
-           │
-           │ 1
-           │
-           │
-           │ ∞
-+----------------------+
-|       SEKOLAH        |
-+----------------------+
-| id (PK)              |
-| yayasan_id (FK)      |
-| nama_sekolah         |
-| alamat               |
-| telepon              |
-| created_at           |
-| updated_at           |
-+----------------------+
 
 # Instalasi Project
 
